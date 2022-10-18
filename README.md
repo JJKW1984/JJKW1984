@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @JJKW1984
+- 👋 Hi, I’m @JJKW1984 i.e. Joseph John Karl Workman
 - 👀 I’m interested in coding, music, addiction and recovery, other humans personal stories
 - 🌱 I’m currently learning Azure DevOps, Powershell, C#, Agile/SCRUM/SCRUMBan
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me joseph + . + workman + @ + gmail.com, Twitter @JosephJohnKarl
+- 💞️ I’m looking to collaborate on Azure DevOps Tools or extensions
+- 📫 How to reach me joseph.workman@gmail.com
+- :bird: Twitter [@JosephJohnKarl]()
 - :world_map: https://josephjohnkarl.dev/
 
 <!---
