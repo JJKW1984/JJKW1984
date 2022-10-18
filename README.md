@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Azure DevOps, Powershell, C#, Agile/SCRUM/SCRUMBan
 - 💞️ I’m looking to collaborate on Azure DevOps Tools or extensions
 - 📫 How to reach me joseph.workman@gmail.com
-- :bird: Twitter [@JosephJohnKarl]()
+- :bird: Twitter [@JosephJohnKarl](https://twitter.com/josephjohnkarl)
 - :world_map: https://josephjohnkarl.dev/
 
 <!---
